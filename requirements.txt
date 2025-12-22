@@ -1,0 +1,3 @@
+selenium >= 4.31.0
+webdrivermanager_cn >= 2.4.0
+pywin32 >= 311
