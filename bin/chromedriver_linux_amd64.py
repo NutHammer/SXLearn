@@ -300,4 +300,5 @@ if __name__ == "__main__":
             driver.find_elements(By.CLASS_NAME, "item")[2].click()
     finally:
         cleanup_chrome()
+
 '''
