@@ -28,8 +28,9 @@
 
 # 使用源码运行
 1. 下载源码，根据操作系统与处理器，按照对应的requirement文件安装依赖。
-2. arm架构的linux系统下，下载firefox和对应驱动程序放置于res文件夹中。（发行版已打包进去，可以直接下载发行版从其中拷贝。）
-3. 运行bin/main.py
-4. 按照发行版使用步骤3-5执行。
+2. windows系统跳过此步。linux系统将bin文件夹下的chromedriver_linux_处理器架构.py名称修改为chromedriver.py。
+3. arm架构的linux系统下，下载firefox和对应驱动程序放置于res文件夹中。（发行版已打包进去，可以直接下载发行版从其中拷贝。）
+4. 运行bin/main.py
+5. 按照发行版使用步骤3-5执行。
 
 
