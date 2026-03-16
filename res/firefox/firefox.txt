@@ -1,0 +1,1 @@
+确保firefox的可执行程序在这里。且名为firefox
