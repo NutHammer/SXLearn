@@ -9,6 +9,7 @@
 支持amd64处理器的windows和linux系统，支持arm64处理器的linux系统。   
 
 # 使用发行版
+ 发行版并非最新版本，仍需使用系统安装的chrome浏览器。
  0.下载与你的处理器与操作系统对应的发行版并解压缩到非系统盘。
     
  1.安装chrome浏览器（arm架构的发行版不需要此步骤）。  
@@ -30,9 +31,8 @@
 
 # 使用源码运行
 1. 下载源码，根据操作系统与处理器，按照对应的requirement文件安装依赖。
-2. windows系统跳过此步。linux系统将bin文件夹下的chromedriver_linux_处理器架构.py名称修改为chromedriver.py。
-3. arm架构的linux系统下，下载firefox和对应驱动程序放置于res文件夹中。（发行版已打包进去，可以直接下载发行版从其中拷贝。）
-4. 运行bin/main.py
-5. 按照发行版使用步骤3-5执行。
+2. arm架构的linux系统下，下载firefox和对应驱动程序放置于res文件夹中。
+3. 运行bin/main.py
+4. 按照发行版使用步骤3-5执行。
 
 
